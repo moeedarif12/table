@@ -1,0 +1,35 @@
+button {
+        
+    background-color: #000000;
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: right;
+    text-decoration: none;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  p{
+    text-align: left;
+    color: #0004f7;
+  }
+  body{
+  background-image: linear-gradient(45deg, #cbfcff, rgb(128, 190, 248));
+background-repeat :no-repeat ;
+/* margin-top: 300px; */
+ } 
+.ab{
+   text-align :left;
+   border:6px #2f00ff;
+   
+    
+}
+input{
+text-align: center;
+display: block;
+width: 420px;
+Font-size : 25px ;
+margin:5px auto;
+Border-radius :20px;
+}
